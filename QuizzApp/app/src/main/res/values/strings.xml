@@ -1,0 +1,73 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quizz App</string>
+
+    <!--Information on what type of quiz it is.-->
+    <string name="introduction">PopCulture Trivia</string>
+
+    <!--Question one. -->
+    <string name="questionOne">1.What is the fictional country Black Panther is set in?</string>
+    <!--Question one option 1 -->
+    <string name="questionOneOptionOne">Wakanda</string>
+    <!--Question one option 2-->
+    <string name="questionOneOptionTwo">Kenya</string>
+    <!--Question one option 3-->
+    <string name="questionOneOptionThree">Ghana</string>
+
+    <!-- Question two. -->
+    <string name="questionTwo">2.What TV show is famous for the line Winter Is Coming?</string>
+    <!--Question two option 1 -->
+    <string name="questionTwoOptionOne">Modern Family</string>
+    <!--Question two option 2-->
+    <string name="questionTwoOptionTwo">Gossip Girl</string>
+    <!--Question two option 3-->
+    <string name="questionTwoOptionThree">Game of Thrones</string>
+
+    <!--Question three.-->
+    <string name="questionThree">3.What is John Legend\'s daughter name?</string>
+    <!--Question three option 1 -->
+    <string name="questionThreeOptionOne">Ariah</string>
+    <!--Question three option 2-->
+    <string name="questionThreeOptionTwo">Luna</string>
+    <!--Question three option 3-->
+    <string name="questionThreeOptionThree">Jane</string>
+
+    <!--Question four.-->
+    <string name="questionFour">4.What was the famous drink Carrie liked in Sex and the City?</string>
+    <!--Question four option 1 -->
+    <string name="questionFourOptionOne">Cosmopolitan</string>
+    <!--Question four option 2-->
+    <string name="questionFourOptionTwo">Moscow Mule</string>
+    <!--Question four option 3-->
+    <string name="questionFourOptionThree">Dirty Martini</string>
+
+    <!--Question five. -->
+    <string name ="questionFive">5.What is fruit do the Real Housewives of Georgia hold during the Into soundtrack?</string>
+    <!-- Text in EditText view-->
+    <string name="userInput">Type your answer here</string>
+    <!--Correct answer for question 5.-->
+    <string name="fifthQuestionAnswer">peach</string>
+
+    <!--Question six.-->
+    <string name="questionSix">6.Which of these characters are Marvel character?</string>
+    <!--Question  six option 1-->
+    <string name="questionSixOptionOne">Iron Man</string>
+    <!--Question six option 2-->
+    <string name="questionSixOptionTwo">Black Widow</string>
+    <!-- Question six option 3-->
+    <string name="questionSixOptionThree">Batman</string>
+
+
+    <!--Toast message for all correct answers.-->
+    <string name="toastMessageCorrect">Well done.</string>
+    <!--Toast message for correct answers more than 1. -->
+    <string name="toastMessageMoreThanOne"><xliff:g id="number_of_correct_answers">%d</xliff:g> out of <xliff:g id="number_of_questions">%d</xliff:g> are correct.</string>
+    <!--Toast message for correct  1 answer. -->
+    <string name="toastMessageForOne"><xliff:g id="number_of_correct_answers">%d</xliff:g> out of  <xliff:g id="number_of_questions">%d</xliff:g></string>
+    <!--Toast message for no correct answers. -->
+    <string name="toastMessageNone">Sorry, try again.</string>
+
+    <!--Button check for completed quiz-->
+    <string name="submitButton">Submit</string>
+    <string name="questionFiveAnswer" />
+    <item name="questionFiveAnswer" type="id" />
+</resources>
